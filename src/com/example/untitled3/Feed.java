@@ -7,7 +7,7 @@ import android.graphics.Bitmap;
  * User: zemin
  * Date: 19.03.2013
  * Time: 14:51
- * To change this template use File | Settings | File Templates.
+ * To change this template use File | Settings | File Templatesjkhkjhkjhkjhkjhkj.
  */
 public class Feed {
     public String username;
