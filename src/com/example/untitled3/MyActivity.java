@@ -45,7 +45,7 @@ public class MyActivity extends Activity {
                 //Intent ix = new Intent(MyActivity.this, mypage.class);
                 // sending data to new activity
               //  ix.putExtra("product", "222");
-                //startActivity(ix);  ,//adasd   sadasdsadsad  dsadsadsadasdsad
+                //startActivity(ix);  ,//adasd   sadasdsadsad  dsadsadsadsadsadsadsasdsad
             }
         });
 
